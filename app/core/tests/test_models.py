@@ -8,6 +8,7 @@ from decimal import Decimal
 
 from .. import models
 
+
 class ModelTests(TestCase):
     """Test models."""
 
